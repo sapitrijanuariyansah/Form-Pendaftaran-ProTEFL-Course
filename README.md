@@ -24,7 +24,8 @@ a:active {
 </style>
 </head>
 <body>
-<p>Untuk pendaftaran, klik link berikut ini:</p>
+ <h2>Selamat Datang di ProTEFL Course</h2>
+<p>Anda dapat mengikuti kursus ProTEFL secara gratis, untuk pendaftaran klik link di bawah ini:</p>
 <a href="https://sapitrijanuariyansah.github.io/" target="_blank">Form Pendaftarn ProTEFL</a> 
 </body>
 </html>
