@@ -3,10 +3,32 @@
 		<title>
 			Sapitri Januariyansah
 		</title>
-	</head>
-  <body>
-     <h1>Selamat Datang di ProTEFL Course</h1>
-      <h2> Untuk pendaftaran, klik link berikut ini Form Pendaftarn ProTEFL</h2>
-      </body>
+<style>
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<p>Untuk pendaftaran, klik link berikut ini</p>
+<a href="Form Pendaftarn ProTEFL" target="_blank">HTML Images</a> 
+</body>
 </html>
 
