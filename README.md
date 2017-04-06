@@ -1,8 +1,5 @@
 <html>
 	<head>
-		<title>
-			Sapitri Januariyansah
-		</title>
 <style>
 a:link {
     color: green;
